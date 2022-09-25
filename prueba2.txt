@@ -1,0 +1,89 @@
+<Tipo>
+<Operacion=SUMA>
+        <Numero>50</Numero>
+<Numero>25</Numero>
+</Operacion>
+    <Operacion=RESTA>
+        <Numero>50</Numero>
+<Numero>25</Numero>
+</Operacion>
+<Operacion=MULTIPLICACION>
+        <Numero >10</Numero>
+	<Numero >25</Numero>
+</Operacion>
+<Operacion=DIVISION>
+        <Numero >50</Numero>
+	<Numero >2</Numero>
+</Operacion>
+<Operacion=POTENCIA>
+        <Numero >5</Numero>
+	<Numero >4</Numero>
+</Operacion>
+<Operacion=RAIZ>
+        <Numero >2</Numero>
+	<Numero >25</Numero>
+</Operacion>
+
+<Operacion=MOD>
+        <Numero >2</Numero>
+	<Numero >25</Numero>
+</Operacion>
+
+<Operacion=SENO>
+        <Numero >25</Numero>
+</Operacion>
+<Operacion=COSENO>
+        <Numero >25</Numero>
+</Operacion>
+<Operacion=TANGENTE>
+        <Numero >25</Numero>
+</Operacion>
+<Operacion=INVERSO>
+        <Numero >12</Numero>
+</Operacion>
+<Operacion=SUMA>
+        <Numero>50</Numero>
+    <Operacion=RESTA>
+        <Numero>50</Numero>
+	    <Operacion=MULTIPLICACION>
+               <Numero >10</Numero>
+	       <Numero >4</Numero>
+	    </Operacion>
+    </Operacion>
+</Operacion>
+</Tipo> 
+<Texto>
+Texto de prueba
+</Texto>
+<Funcion = ESCRIBIR>
+<Titulo> Operaciones </Titulo>
+<Descripcion> [TEXTO] </Descripcion>
+<Contenido> [TIPO] </Contenido>
+</Funcion>
+<Estilo>
+<Titulo Color=AZUL  tamanio=12>
+<Descripcion Color=VERDE  tamanio=3/>
+<Contenido Color=GRIS  tamanio=3/>
+</Estilo> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
